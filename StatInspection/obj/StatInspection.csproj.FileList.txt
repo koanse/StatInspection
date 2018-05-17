@@ -1,0 +1,13 @@
+bin\Debug\StatInspection.exe
+bin\Debug\StatInspection.pdb
+bin\Debug\MathLib.dll
+bin\Debug\MathNet.Iridium.dll
+bin\Debug\muWrapper.dll
+bin\Debug\NPlot.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StatInspection.Properties.Resources.resources
+obj\Debug\StatInspection.csproj.GenerateResource.Cache
+obj\Debug\StatInspection.exe
+obj\Debug\StatInspection.pdb
+obj\Debug\StatInspection.GenForm.resources
+obj\Debug\StatInspection.MainForm.resources
